@@ -1,0 +1,83 @@
+﻿page,text
+1,"MD MIZANUR RAHMAN
+Hazaribagh, Dhaka-1209, Bangladesh
++880 1778914668 mizanur.rahman.1cse@gmail.com linkedin.com/in/mizanur1692000/
+github.com/Mizanur1692000 sites.google.com/view/mdmizanurrahman/home
+Professional Experience
+ CodeAlpha Remote (Lucknow, India)
+Machine Learning Intern 10, September 2024 – 10, December 2024
+o Languages/Frameworks/Tools: Python, Tensorflow, Keras, Jupyter Notebook, GitHub, Kaggle, Google Colab
+o Responsibilities: Doing some hands-on projects based on requirements.
+Professional Training
+ Creative IT Institute Dhaka, Bangladesh
+Python with Machine Learning 30, December 2023 – 30, June 2024
+o Languages/Frameworks/Tools: Python, Tensorflow, Keras, Pandas, Scikit-learn, Jupyter Notebook, GitHub, Kaggle.
+o Responsibilities: Developing machine learning models for getting more accurate output.
+ Improvement IT Education Dhaka, Bangladesh
+Basic to Advance Computer Training April 2016 – June 2016
+o Languages/Frameworks/Tools: MS Office, MS Excel, MS PowerPoint, Internet Browsing, E-main Handling.
+o Responsibilities: Completing basic to advance typing, solving relevant tasks, attending and organizing team meetings.
+Education
+ University of Liberal Arts Bangladesh Dhaka, Bangladesh
+o Bachelor of Science- Computer Science and Engineering (CGPA-3.48) January 2020 – February 2025
+Relevant Courses: Data Structures and Algorithms, Software Engineering, Artificial Intelligence, Machine Learning, System
+Design.
+ Government Laboratory High School Dhaka, Bangladesh
+o Higher Secondary School Certificate (GPA-3.92) July 2017 – May 2019
+ Shahid Sheikh Rasel Govt. High School Dhaka, Bangladesh
+o Secondary School Certificate (GPA-5.00) January 2015 – March 2017
+Skill Summary
+ Programming Languages: C, C++, Python, Java, JavaScript, PHP.
+ Web Technologies: HTML, CSS, Bootstrap.
+ Machine Learning Technologies: Scikit-learn, Tensorflow, Keras, NumPy, Pandas, Matplotlib, Seaborn.
+ Databases: MySQL, HeidiSQL, Xampp.
+ Other Tools: LaTeX, Tableau, Jupyter Notebook, Apache NetBeans, Kaggle, Google Colab, Code::Blocks.
+ Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management, Communication.
+Research & Publications
+ Submitted Research | Customized MobileNetV3 to Enhance YOLOv11 for Real-Time Insect
+Detection- A real-time insect detection system by integrating a customized MobileNetV3 backbone into the
+YOLOv11 architecture to improve detection accuracy and reduce computational overhead. Trained on the BAU-
+Insectv2 dataset (1,806 images, 9 insect genera), the model achieved high detection performance while maintaining
+suitability for resource-constrained environments. Delivered a web-based application to assist farmers in timely
+pest identification and control, contributing to sustainable agricultural practices.
+Supervisor: Dr. Mohammed Ashikur Rahman, Assistant Professor Dept. of CSE, University of Liberal Arts
+Bangladesh
+Mini Projects
+ Real-time Sports Fitness Monitoring System for Athletes’ based on Internet of Things (Internet of Things)-
+Created a project for the sportsman for testing their current physical availability for upcoming competition. The system is able to determine the
+athlete is fit or not and what type of exercise suit for them based on their heart rate. Breadboard, Arduino Uno, Heart Rate Sensor, LED display,
+Python were used to accomplish the project."
+2," A RELATIVE DATA ANALYSIS ON LUNG CANCER PREDICTION IN BANGLADESH (August, 2023)- Developed a machine
+learning model to predict the lung cancer in Bangladesh considering on age, alcohol use, gender, dust allergy, genetic risk, chronic lung disease,
+air pollution and so on. The model can provide almost 100% accurate output. Python (Pandas, Matplotlib, Seaborn), machine learning models
+(Linear Regression, Decision Tree, KNN), Naïve Bayes were used to build the project.
+ Hospital Management System- Built a hospital management system using data structure algorithms, and C++ in Data Structure course.
+The information of a new patient can be added, possible to see the information of old patient, information can be updated and deleted using the
+system.
+Co-curricular Experience
+ Volunteer in ULAB 7th Convocation Dhaka, Bangladesh
+University of Liberal Arts Bangladesh 7, May 2024
+o Responsibilities: Serving as a guest and protocol volunteer. Communicating with the guest and authorities of the convocation
+management and organizing meeting with the guest and protocol team.
+ Batch Ambassador of ULAB Computer and Programming Club Dhaka, Bangladesh
+University of Liberal Arts Bangladesh May 2022 – September 2023
+o Responsibilities: Working as a batch ambassador for 201 batch. Establishing a strong connection among all the member of the club,
+encouraging the general member to participate in programming contests and events.
+ General Member at ULAB Computer and Programming Club Dhaka, Bangladesh
+University of Liberal Arts Bangladesh January 2021 – September 2023
+o Responsibilities: Participating in programming contests, events, general meetings. Working as a volunteer to established the
+network among the executive members and other general members of the club.
+ General Member at ULAB Social Welfare Club Dhaka, Bangladesh
+University of Liberal Arts Bangladesh May 2023 – September 2024
+o Responsibilities: Was the most active member of the club. Participating in Campus Cleaning event, Eid Gift distribution program,
+fund collection events for cancer and flood affected people.
+Honors/Awards
+o 2nd Runner Up: “InspireSphere, 2024”, organized by ULAB Social Welfare Club.
+o 2nd Runner Up: “Is programming Fun or Scary?, 2022”, organized by ULAB Computer and Programming Club.
+Areas of Interest
+ Software Engineering
+ Artificial Intelligence
+ Machine Learning
+ Deep Learning
+ Natural Language Processing
+ Computer Vision"

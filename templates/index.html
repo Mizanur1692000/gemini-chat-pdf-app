@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gemini Chat + PDF Extractor</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="chat-container">
+    <header class="chat-header">
+      <h1 class="chat-title">Gemini Chat Assistant</h1>
+    </header>
+
+    <div class="chat-box" id="chatBox">
+      <div class="message bot-message">
+        <span class="avatar bot-avatar">🤖</span>
+        <div class="message-content">Hi there! How can I help you today? You can also upload a PDF to extract its text.</div>
+      </div>
+    </div>
+
+    <div class="loader-container" id="loaderContainer">
+      <div class="loader"></div>
+      <span>Thinking...</span>
+    </div>
+
+    <form id="chatForm" class="chat-input-form">
+      <input type="text" id="messageInput" placeholder="Ask me anything..." autocomplete="off" />
+      <button type="submit" id="sendButton" aria-label="Send">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+          <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+        </svg>
+      </button>
+    </form>
+
+    <div class="pdf-card">
+      <div class="pdf-header">
+        <h2 class="pdf-title">Upload PDF & Extract Text</h2>
+      </div>
+      <form id="pdfForm" enctype="multipart/form-data" class="pdf-form">
+        <div class="field-group">
+          <label for="pdfFile">Select PDF</label>
+          <input type="file" id="pdfFile" name="file" accept="application/pdf" required />
+        </div>
+        <div class="field-inline">
+          <label class="checkbox-label">
+            <input type="checkbox" name="use_ocr" value="true" />
+            Use OCR fallback (for scanned pages)
+          </label>
+        </div>
+        <div class="actions">
+          <button type="submit" id="uploadBtn">Extract & Download CSV</button>
+        </div>
+      </form>
+      <div id="pdfResult" class="pdf-result"></div>
+    </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

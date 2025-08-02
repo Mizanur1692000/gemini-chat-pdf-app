@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+Jinja2
+python-dotenv
+langchain-google-genai
+langchain
+langchain_community
+pdfplumber          # for extracting text from normal PDFs
+pytesseract         # for OCR of scanned PDFs (optional, requires Tesseract installed)
+Pillow              # image handling for OCR
+pandas              # for saving to csv
+python-multipart    # if you do form uploads
